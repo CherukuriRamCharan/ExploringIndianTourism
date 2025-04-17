@@ -1,6 +1,6 @@
 # Interactive India SVG Map
 
-This is a simple web project that displays an interactive **SVG map of India**. Each state is clickable and takes you to a separate HTML page for that state.
+This is a simple web project that displays an interactive **SVG map of India**. Each state is clickable and takes you to a separate HTML page for that state and displays the top 10 tourist places in that state that a tourist must visit.
 
 ## 🔹 How to Use
 
